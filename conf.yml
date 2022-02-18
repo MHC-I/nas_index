@@ -1,0 +1,40 @@
+# 开启随机壁纸
+random_cover: false
+# 网页标题
+html_title: NAS导航页 | Iatrology
+# logo标语
+logo: Hi!
+# 座右铭,不写留空,自动调一言随机接口
+motto: # 无与伦比的追求冰冷地敲打着我的灵魂
+# 底部信息
+copyright: ©2021 - Iatrology
+# 配置
+conf:
+  # icon地址:https://fontawesome.com/icons,左侧勾选free,选择图标
+  - icon: fas meteor
+    text: Aria2
+    link: http://ariang.js.org/#!/settings/rpc/set/ws/121.40.120.105/6800/jsonrpc/WkdNMk1tRXpNVGMyWmpJMk1UaGhZakl6T0RZ
+  - icon: fab phoenix-squadron
+    text: qBittorrent
+    link: http://121.40.120.105:8080
+  - icon: fab accusoft
+    text: 片库
+    link: https://www.pianku.li
+  - icon: fab asymmetrik
+    text: 音范丝
+    link: https://www.yinfans.me
+  - icon: fas user-cog
+    text: 后台
+    link: http://121.40.120.105:4000
+  - icon: far closed-captioning
+    text: Jellyfin
+    link: http://121.40.120.105:8096
+  - icon: far folder
+    text: FileBrowser
+    link: https://file.iatrology.net
+  - icon: far closed-captioning
+    text: Jellyfine-
+    link: http://192.168.0.2:8096
+  - icon: far folder
+    text: FileBrowser-
+    link: http://192.168.0.2:4002
